@@ -36,7 +36,7 @@
 0	Sorry mate, there is no more room for you
 0	Who could have possibly done this?
 1	I won the challenge
-0	I feel bad for what I did		
+0	I feel bad for what I did
 1	I had a great time tonight
 1	It was a lot of fun
 1	Thank you Molly making this possible
@@ -63,7 +63,7 @@
 1	Thanks God I left on time
 1	Greateful for a wonderful meal
 1	So happy to be home
-0	Hate to wait on a long queue		
+0	Hate to wait on a long queue
 0	No cab available
 0	Electricity outage, this is a nightmare
 0	Nobody to ask about directions
